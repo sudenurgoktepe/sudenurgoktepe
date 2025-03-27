@@ -3,9 +3,7 @@
 <h2>Hakkımda</h2>
 
    Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Mobil programlama ve yapay zeka alanlarında kendimi sürekli geliştiriyor, yeni teknolojilere hızla uyum sağlayarak günümüz problemlerine yenilikçi çözümler üretmeyi hedefliyorum.
-   Staj deneyimim boyunca özellikle mobil proje geliştirme konusunda kendimi geliştirme fırsatı buldum. Güçlü iş birliği ve iletişim becerilerimle, başarılı bir mühendis adayı olarak kariyerime emin adımlarla ilerliyor ve staj sürecinde yetkinliklerimi daha da 
-   artırmayı hedefliyorum.
-   
+    
 <h2>İletişim</h2>
                                       
 
