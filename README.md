@@ -1,4 +1,4 @@
-<h1>Merhaba Profilime Hoşgeldiniz / Hi There, Welcome To My Profile 👋 </h1>
+<h1>Merhaba Profilime Hoşgeldiniz👋 </h1>
 
 <h2>Hakkımda</h2>
 
