@@ -54,7 +54,7 @@
 <a href="mailto:sudenurgoktepe@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/sudenurgoktepe/" target="_blank">
+<a href="https://www.linkedin.com/in/sudenur-g%C3%B6ktepe-9b312b25a/"target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/sudenurgoktepe" target="_blank">
@@ -62,17 +62,6 @@
 </a>
 
 ---
-
-## 📈 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudenurgoktepe&show_icons=true&theme=radical" alt="Sude Nur's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudenurgoktepe&theme=radical&hide_border=false" />
-</p>
-
----
-
 <p align="center">💡 Gelişmeye açık, meraklı ve üretmeye hazır bir yazılımcıyım!</p>
 
 <p align="right">(<a href="#top">🔝 Başa Dön</a>)</p>
