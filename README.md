@@ -9,7 +9,7 @@
 ## 💻 Hakkımda
 
 - 🎓 Burdur Mehmet Akif Ersoy Üniversitesi — Bilişim Sistemleri Mühendisliği (3. sınıf)  
-- 📱 IOS (Swift) ve Flutter ile MVVM mimarisine uygun, modern ve kullanıcı odaklı mobil uygulamalar geliştiriyorum.”
+- 📱 IOS (Swift) ve Flutter ile MVVM mimarisine uygun, modern ve kullanıcı odaklı mobil uygulamalar geliştiriyorum.
 - 🤖Yapay zeka, makine öğrenmesi, derin öğrenme (CNN, RNN), doğal dil işleme (NLP) ve veri bilimi alanlarına ilgiliyim; bu konularda projeler geliştirerek teknik yetkinliğimi sürekli artırıyorum.
 - 🧠 Sürekli öğrenmeye ve üretmeye istekliyim.
 
